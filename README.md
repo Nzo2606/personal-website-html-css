@@ -1,2 +1,14 @@
 # Personal-website-html-css
-Personal website project using HTML and CSS, focused on style and layout fundamentals 
+
+
+## About the project
+
+## Technologies used
+
+## Project Structure
+
+## What I Am Practicing
+
+## How To View
+
+## Next Steps
